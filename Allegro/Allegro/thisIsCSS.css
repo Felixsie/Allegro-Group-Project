@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background:url("Stokes.jpg");
+	background-size: cover;
+}
+
+#header{
+	background-color:orange;
+	font-family:"aguafina-script";
+	margin: -10px;
+	height:150px;
+}
+h1{
+	color: blue;
+}
+h1#unique{
+	color: blue;
+	font-size: 48px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+ins{
+	color: purple;
+}
+
+ul{
+	float:right;
+}
+ul li{
+	list-style-type: none;
+	display:inline-table;
+	padding: 10px;
+}
+ul li a{
+	padding: 10px;
+	color:red;
+	font-family:Andale Mono,;
+}
+ul li a:hover{
+	background-color: purple;	
+}
+
+
+#content{
+	background-color: yellow;
+	margin: -10px;
+	font-family:"Courier New", Courier, monospace;
+	height: 1000px;
+	padding: 20px;
+}
+p1{
+	font-size:18px;
+}
+pre{
+	font-size:18px;
+}
+
+img{
+	margin:auto;
+	display:block;
+}
+
+#footer{
+	height:125px;
+	background-color: orange;
+	background-size: cover;
+	font-family: Helvetica Neue,;
+	outline-style:ridge;
+	outline-color: #9F9999;
+	padding: 50px;
+	color: black;
+}
+
+
+ul2{
+	list-style-type: none;
+	font-size:18px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
