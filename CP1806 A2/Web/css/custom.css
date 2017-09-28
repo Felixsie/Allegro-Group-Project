@@ -1,0 +1,38 @@
+.logo {
+	float: left;
+	height: 150px;
+	width: 160px;
+	}
+body {
+	padding-top: 50px;
+	color: #000000;
+	font-size: 18px;
+	}
+	
+h1, h2, h3, h4, h5, h6 {
+	color: black;
+	}
+	
+.feature {
+	background-color:#56D2C7;
+	color: white;
+	}
+	
+.article-intro {
+    margin-bottom: 25px;
+}
+
+.footer-blurb {
+    padding: 30px 0;
+    background-color: goldenrod;
+    color: black;
+}
+    
+.footer-blurb-item {
+    padding: 30px;
+    }
+ 
+.small-print {
+	background-color: #fff;
+	padding: 30px 0;
+}
